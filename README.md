@@ -11,6 +11,7 @@ Uma aplicação de criação de notas de texto que podem ser armazenadas no nave
 - Criação de notas através de gravação de fala (não disponível em todos os navegadores)
 - Visualização das notas criadas em formato de Cards
 - Aplicação acessível e responsiva
+- Busca por conteúdo das notas
 
 
 ## Stack utilizada
