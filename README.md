@@ -1,7 +1,7 @@
 
 # NLW Expert Notes
 
-![NLW-expert-notes](https://github.com/MatheusMessias-jf/nlw-expert-notes/assets/32177004/5959a0d2-0e24-4135-abb0-e0905c0379b5)
+![imagem do projeto](https://raw.githubusercontent.com/MatheusMessias-jf/nlw-expert-notes/main/src/assets/project-image.png)
 
 Uma aplicação de criação de notas de texto que podem ser armazenadas no navegador do usuário e podem ser criadas também por reconhecimento de fala desenvolvida em React com Typescript.
 
